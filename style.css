@@ -58,6 +58,7 @@ section{
   background-position: right;
 }
 .text{
+  text-align: left;
   color: dimgray;
 }
 
