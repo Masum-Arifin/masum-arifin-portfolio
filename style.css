@@ -18,7 +18,8 @@ p{
   width: 40%;
   float: left;
   margin-left: 4%;
-  padding-left: 75px;
+  padding-top: 30px;
+  padding-left: 70px;
 }
 
 .big-dream{
@@ -57,13 +58,13 @@ section{
   background-position: right;
 }
 .text{
-text-align: left;
-color: rgb(30, 30, 117);
+  color: dimgray;
 }
+
 .single-experiences{
   box-shadow: 10px 10px 40px rgb(70, 69, 69);
   border-radius: 10px;
-  height: 65%;
+  height: 60%;
   
 }
 .experiences-area{
