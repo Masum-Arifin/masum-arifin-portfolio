@@ -86,3 +86,7 @@ section{
   border-image: linear-gradient(purple, tomato);
   border-image-slice: 1;
 }
+.footer-text{
+ text-align: center;
+ text-decoration: none;
+}
